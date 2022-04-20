@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+	<creator type="key">ControlDesk 6.0</creator>
+	<project>
+		<Creator type="key">ControlDesk</Creator>
+		<Name type="key">Scara.CDP</Name>
+		<DisplayName type="key">Scara</DisplayName>
+		<Flags type="key">4096</Flags>
+		<Type type="key">1</Type>
+		<UniqueID type="key">441241648</UniqueID>
+		<EntityID type="key">{A645ACB5-51FD-49A9-B2C1-B37445DAFADF}</EntityID>
+		<ItemInfoDate type="key">2021-11-18 09:28:31</ItemInfoDate>
+		<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+		<ItemInfoDescr type="key"/>
+		<ItemInfoAddInfoDb type="key"/>
+		<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+		<item>
+			<Targets type="key">project</Targets>
+			<Name type="key">Scara</Name>
+			<DisplayName type="key">Scara</DisplayName>
+			<Path type="key">..</Path>
+			<Flags type="key">4100</Flags>
+			<Type type="key">3</Type>
+			<UniqueID type="key">230531556</UniqueID>
+			<EntityID type="key">{591141CB-921A-4048-B22C-629D3A2BD745}</EntityID>
+			<ItemInfoDate type="key">2021-11-18 09:28:31</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+			<item>
+				<Docs type="key">.doc,.docx,.pdf</Docs>
+				<Name type="key">Specifications</Name>
+				<DisplayName type="key">Specifications</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">687691249</UniqueID>
+				<EntityID type="key">{961D89B8-1ACB-4BC8-8ADE-8DCEFE601110}</EntityID>
+				<ItemInfoDate type="key">2021-11-18 09:28:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.doc,.docx,.pdf</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Docs type="key">.mpp</Docs>
+				<Name type="key">Project Plans</Name>
+				<DisplayName type="key">Project Plans</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">801268204</UniqueID>
+				<EntityID type="key">{96F33BFF-E506-48B6-BF5F-AAF8AD4546BE}</EntityID>
+				<ItemInfoDate type="key">2021-11-18 09:28:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.mpp</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">datasetmanager_global</Targets>
+				<Name type="key">Global Data Sets</Name>
+				<DisplayName type="key">Global Data Sets</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">29</Type>
+				<UniqueID type="key">410512685</UniqueID>
+				<EntityID type="key">{C6C4657A-FDEC-4FE5-91B5-0FF498485098}</EntityID>
+				<ItemInfoDate type="key">2021-11-18 09:28:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">variablesmanagement</Targets>
+				<Name type="key">Variable Descriptions</Name>
+				<DisplayName type="key">Variable Descriptions</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">256</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">884737791</UniqueID>
+				<EntityID type="key">{9EBB80FE-BE17-4D96-8D8D-E43A03065BA1}</EntityID>
+				<ItemInfoDate type="key">2021-11-18 09:28:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+				<item>
+					<Component type="key">VariablesManagement</Component>
+					<Name type="key">Scara.vdb</Name>
+					<DisplayName type="key">C:\Users\k21c900a\Desktop\Scara\Scara\Variable Descriptions\Scara.vdb</DisplayName>
+					<Path type="key">.\Variable Descriptions</Path>
+					<Flags type="key">276</Flags>
+					<Type type="key">18</Type>
+					<UniqueID type="key">127223815</UniqueID>
+					<EntityID type="key">{956FB9C2-EA1D-465D-B57C-B4109B8F6701}</EntityID>
+					<ItemInfoDate type="key">2021-11-18 09:28:33</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">VariablesManagement</Component>
+					<Name type="key">scara.sdf</Name>
+					<DisplayName type="key">scara.sdf</DisplayName>
+					<Path type="key">.\Variable Descriptions\scara.sdf</Path>
+					<Flags type="key">18704</Flags>
+					<Type type="key">7</Type>
+					<UniqueID type="key">1024241527</UniqueID>
+					<EntityID type="key">{5F3A3338-8CAE-47B2-B41D-FAEB7EE7A80B}</EntityID>
+					<ItemInfoDate type="key">2021-11-18 09:28:32</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoLog type="key">
+Original file added from ..\scara.sdf [2021-11-18 08:25:29 (UTC)]
+
+Variable description reloaded on 18.11.2021 09:30:03 (C:\Users\k21c900a\Desktop\Scara\scara.sdf)
+Original file added from ..\scara.sdf [2021-11-18 08:29:03 (UTC)]
+
+Variable description reloaded on 18.11.2021 09:33:35 (C:\Users\k21c900a\Desktop\Scara\scara.sdf)
+Original file added from ..\scara.sdf [2021-11-18 08:33:01 (UTC)]
+
+Variable description reloaded on 18.11.2021 10:05:18 (C:\Users\k21c900a\Desktop\Scara\scara.sdf)
+Original file added from ..\scara.sdf [2021-11-18 09:04:17 (UTC)]
+
+Variable description reloaded on 18.11.2021 10:09:28 (C:\Users\k21c900a\Desktop\Scara\scara.sdf)
+Original file added from ..\scara.sdf [2021-11-18 09:08:32 (UTC)]
+
+Variable description reloaded on 18.11.2021 10:15:04 (C:\Users\k21c900a\Desktop\Scara\scara.sdf)
+Original file added from ..\scara.sdf [2021-11-18 09:14:56 (UTC)]
+
+Variable description reloaded on 18.11.2021 10:25:45 (C:\Users\k21c900a\Desktop\Scara\scara.sdf)
+Original file added from ..\scara.sdf [2021-11-18 09:25:31 (UTC)]
+
+Variable description reloaded on 25.11.2021 09:11:37 (C:\Users\k21c900a\Desktop\Scara\scara.sdf)
+Original file added from ..\scara.sdf [2021-11-25 08:10:29 (UTC)]
+
+Variable description reloaded on 25.11.2021 09:19:17 (C:\Users\k21c900a\Desktop\Scara\scara.sdf)
+Original file added from ..\scara.sdf [2021-11-25 08:18:49 (UTC)]
+
+Variable description reloaded on 25.11.2021 09:25:27 (C:\Users\k21c900a\Desktop\Scara\scara.sdf)
+Original file added from ..\scara.sdf [2021-11-25 08:25:09 (UTC)]
+
+Variable description reloaded on 25.11.2021 09:38:29 (C:\Users\k21c900a\Desktop\Scara\scara.sdf)
+Original file added from ..\scara.sdf [2021-11-25 08:38:15 (UTC)]
+
+Variable description reloaded on 25.11.2021 09:49:25 (C:\Users\k21c900a\Desktop\Scara\scara.sdf)
+Original file added from ..\scara.sdf [2021-11-25 08:48:47 (UTC)]
+
+Variable description reloaded on 25.11.2021 09:57:26 (C:\Users\k21c900a\Desktop\Scara\scara.sdf)
+Original file added from ..\scara.sdf [2021-11-25 08:57:07 (UTC)]
+
+Variable description reloaded on 25.11.2021 10:19:14 (C:\Users\k21c900a\Desktop\Scara\scara.sdf)
+Original file added from ..\scara.sdf [2021-11-25 09:18:48 (UTC)]
+</ItemInfoLog>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">scara.trc</Name>
+						<DisplayName type="key">scara.trc</DisplayName>
+						<Path type="key">.\Variable Descriptions\scara.sdf</Path>
+						<Flags type="key">18692</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<Type type="key">4</Type>
+						<UniqueID type="key">560546051</UniqueID>
+						<EntityID type="key">{2A3AB833-2561-4F61-8F65-DAC03E4BEEAC}</EntityID>
+						<ItemInfoDate type="key">2021-11-25 10:19:14</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">scara.map</Name>
+						<DisplayName type="key">scara.map</DisplayName>
+						<Path type="key">.\Variable Descriptions\scara.sdf</Path>
+						<Flags type="key">18692</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<Type type="key">4</Type>
+						<UniqueID type="key">931232484</UniqueID>
+						<EntityID type="key">{2181B015-0D17-4FFC-A7F2-34D3B40484E6}</EntityID>
+						<ItemInfoDate type="key">2021-11-25 10:19:14</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">scara.ppc</Name>
+						<DisplayName type="key">scara.ppc</DisplayName>
+						<Path type="key">.\Variable Descriptions\scara.sdf</Path>
+						<Flags type="key">18692</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<Type type="key">30</Type>
+						<UniqueID type="key">862608350</UniqueID>
+						<EntityID type="key">{8CD5CECE-F3EF-4FA5-B779-7E485F41890D}</EntityID>
+						<ItemInfoDate type="key">2021-11-25 10:19:14</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+					</item>
+				</item>
+			</item>
+			<item>
+				<Targets type="key">datasetmanager</Targets>
+				<Name type="key">Data Sets</Name>
+				<DisplayName type="key">Data Sets</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">4</Flags>
+				<Type type="key">29</Type>
+				<UniqueID type="key">821487466</UniqueID>
+				<EntityID type="key">{18B760C9-33E4-436A-B5BE-889F1AAD2942}</EntityID>
+				<ItemInfoDate type="key">2021-11-18 09:28:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">.vfe</Targets>
+				<Name type="key">Variable Filters</Name>
+				<DisplayName type="key">Variable Filters</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">2304</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">309829044</UniqueID>
+				<EntityID type="key">{D5708BC0-40ED-4759-9DE7-79CB7C50F406}</EntityID>
+				<ItemInfoDate type="key">2021-11-18 09:28:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">.lab</Targets>
+				<Docs type="key">.lab,.txt</Docs>
+				<Name type="key">Label Lists</Name>
+				<DisplayName type="key">Label Lists</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">240220201</UniqueID>
+				<EntityID type="key">{F00D7370-F47A-495D-8731-6B580F2AD883}</EntityID>
+				<ItemInfoDate type="key">2021-11-18 09:28:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.lab,.txt</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">devicemanagement,platformmanagement</Targets>
+				<Name type="key">Global Devices</Name>
+				<DisplayName type="key">Global Devices</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">938804859</UniqueID>
+				<EntityID type="key">{811881DF-C08C-4A6B-B2DD-26619A81C544}</EntityID>
+				<ItemInfoDate type="key">2021-11-18 09:28:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">interpreter,.py</Targets>
+				<Docs type="key">.py</Docs>
+				<Name type="key">Python Scripts</Name>
+				<DisplayName type="key">Python Scripts</DisplayName>
+				<Path type="key">.</Path>
+				<ExtendedFlags type="key">4224</ExtendedFlags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">854435297</UniqueID>
+				<EntityID type="key">{C9DAEBED-565D-421D-8F65-CBAE5CCA712F}</EntityID>
+				<ItemInfoDate type="key">2021-11-18 09:28:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.py</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">busnavigator,.xml</Targets>
+				<Name type="key">BusNavigator</Name>
+				<DisplayName type="key">BusNavigator</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">4</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">741020134</UniqueID>
+				<EntityID type="key">{3D8AF647-95D5-4644-9FF6-990D09603C4E}</EntityID>
+				<ItemInfoDate type="key">2021-11-18 09:28:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">signaleditor</Targets>
+				<Name type="key">Signal Description Sets</Name>
+				<DisplayName type="key">Signal Description Sets</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">184389605</UniqueID>
+				<EntityID type="key">{6EC9C460-41EE-4B9C-AE76-E6F6CEC7EF6D}</EntityID>
+				<ItemInfoDate type="key">2021-11-18 09:28:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+			</item>
+		</item>
+		<item>
+			<Name type="key">Events</Name>
+			<DisplayName type="key">Events</DisplayName>
+			<Path type="key">.</Path>
+			<Flags type="key">4</Flags>
+			<Type type="key">3</Type>
+			<UniqueID type="key">325120853</UniqueID>
+			<EntityID type="key">{D08E2C06-8B0A-49F4-920C-55D8F0746631}</EntityID>
+			<ItemInfoDate type="key">2021-11-18 09:28:32</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+			<item>
+				<Name type="key">Project.events</Name>
+				<DisplayName type="key">Project.events</DisplayName>
+				<Path type="key">.\Events</Path>
+				<Flags type="key">4</Flags>
+				<Type type="key">52</Type>
+				<UniqueID type="key">911996585</UniqueID>
+				<EntityID type="key">{5BCCF041-B186-4B8D-9AAD-DA4F1BB4B903}</EntityID>
+				<ItemInfoDate type="key">2021-11-18 09:28:32</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+			</item>
+		</item>
+	</project>
+	<experiments>
+		<experiment>
+			<Creator type="key">ControlDesk</Creator>
+			<Name type="key">Panel_scara.CDE</Name>
+			<DisplayName type="key">Panel_scara</DisplayName>
+			<Path type="key">.\Panel_scara</Path>
+			<Flags type="key">4096</Flags>
+			<Type type="key">2</Type>
+			<UniqueID type="key">602272606</UniqueID>
+			<EntityID type="key">{FCC1B97F-A8E7-4DFB-9D3C-8EC7E8DF4BB7}</EntityID>
+			<ItemInfoDate type="key">2021-11-18 09:28:31</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">k21c900a</ItemInfoAuthor>
+		</experiment>
+	</experiments>
+	<UserManager/>
+	<XILAPIEESPort Version="1"/>
+	<Interpreter/>
+	<VariablesManagement Version="85">
+		<CreatorVersion type="key">600000554</CreatorVersion>
+	</VariablesManagement>
+	<ProjectExperiment>
+		<LastActiveExperiment type="key">Panel_scara</LastActiveExperiment>
+	</ProjectExperiment>
+	<MeasureDataManagement Version="4"/>
+	<Instrumentation Version="1">
+		<UniqueIds Version="3">
+			<Count type="key">1</Count>
+			<File1 type="key">Panel_scara/Layout1</File1>
+			<Id1 type="key">0</Id1>
+		</UniqueIds>
+	</Instrumentation>
+	<DiagnosticsManagement/>
+	<PlatformManagement Version="8"/>
+	<DataSetManager>
+		<Version>
+			<Version type="key">2</Version>
+		</Version>
+		<Work/>
+		<ActiveWork/>
+		<Reference/>
+		<ActiveReference/>
+		<Master/>
+		<ActiveMaster/>
+		<InitialMaster/>
+		<Incomplete/>
+		<IncompleteReadonly/>
+		<DataSet/>
+		<Readonly/>
+		<LabelListFilter>
+			<LabelListFilterFile type="key"/>
+			<LabelListFilterActive type="key">0</LabelListFilterActive>
+		</LabelListFilter>
+		<AutomaticDownload/>
+	</DataSetManager>
+</Root>

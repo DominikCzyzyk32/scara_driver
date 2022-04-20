@@ -1,0 +1,110 @@
+-- ******** Tunable Parameters ************************************************
+
+group "Tunable Parameters"
+{
+ flags: COLLAPSED
+}
+
+
+endgroup
+
+
+-- ******** State Machine Data ************************************************
+
+-- No Stateflow chart within the model.
+
+
+-- ******** Data Store Memories ***********************************************
+
+group "Data Stores"
+{
+ flags: COLLAPSED
+}
+	p_2_scara_real_T_0[7]
+	{
+	 type:   flt(64,IEEE)*
+	 alias:  "Poz_gora"
+	 origin: "scara/Subsystem/Data Store\nMemory"
+	 flags:  DSM
+	}
+	p_2_scara_real_T_0[8]
+	{
+	 type:   flt(64,IEEE)*
+	 alias:  "Poz_dol"
+	 origin: "scara/Subsystem/Data Store\nMemory1"
+	 flags:  DSM
+	}
+	p_2_scara_real_T_0[9]
+	{
+	 type:   flt(64,IEEE)*
+	 alias:  "wsp_kart"
+	 origin: "scara/Subsystem/Data Store\nMemory10"
+	 flags:  DSM
+	}
+	p_2_scara_real_T_0[10]
+	{
+	 type:   flt(64,IEEE)*
+	 alias:  "Przycisk_bazowanie"
+	 origin: "scara/Subsystem/Data Store\nMemory2"
+	 flags:  DSM
+	}
+	p_2_scara_real_T_0[11]
+	{
+	 type:   flt(64,IEEE)*
+	 alias:  "predkosc"
+	 origin: "scara/Subsystem/Data Store\nMemory3"
+	 flags:  DSM
+	}
+	p_2_scara_real_T_0[12]
+	{
+	 type:   flt(64,IEEE)*
+	 alias:  "wyzw_gora"
+	 origin: "scara/Subsystem/Data Store\nMemory4"
+	 flags:  DSM
+	}
+	p_2_scara_real_T_0[13]
+	{
+	 type:   flt(64,IEEE)*
+	 alias:  "wyzw_dol"
+	 origin: "scara/Subsystem/Data Store\nMemory5"
+	 flags:  DSM
+	}
+	p_2_scara_real_T_0[14]
+	{
+	 type:   flt(64,IEEE)*
+	 alias:  "wyzwol"
+	 origin: "scara/Subsystem/Data Store\nMemory6"
+	 flags:  DSM
+	}
+	p_2_scara_real_T_0[15]
+	{
+	 type:   flt(64,IEEE)*
+	 alias:  "wlacz_wyzwolenie"
+	 origin: "scara/Subsystem/Data Store\nMemory7"
+	 flags:  DSM
+	}
+	p_2_scara_real_T_0[16]
+	{
+	 type:   flt(64,IEEE)*
+	 alias:  "poz_x"
+	 origin: "scara/Subsystem/Data Store\nMemory8"
+	 flags:  DSM
+	}
+	p_2_scara_real_T_0[17]
+	{
+	 type:   flt(64,IEEE)*
+	 alias:  "poz_y"
+	 origin: "scara/Subsystem/Data Store\nMemory9"
+	 flags:  DSM
+	}
+endgroup
+
+
+-- ******** Labels ************************************************************
+
+-- Generation of labels turned off with TRCGenerateLabels option.
+
+-- ******** RTT Dynamic Variables *********************************************
+
+-- Generation of RTT Dynamic Variables turned off with EnableRealTimeTesting option.
+
